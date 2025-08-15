@@ -1,0 +1,7 @@
+background-opacity = 0.90
+background-blur = 20
+background = #000000
+theme = rose-pine
+shell-integration = bash
+
+
