@@ -3,5 +3,6 @@ background-blur = 20
 background = #000000
 theme = rose-pine
 shell-integration = bash
+shell-integration-features = no-cursor
 
 
